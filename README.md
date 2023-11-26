@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hi 👋 August-Light here.
 
-<!--
-**August-Light/August-Light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ☁💡🎈 OIer
+
+其他平台：
+
+- 洛谷：[August_Light](https://www.luogu.com.cn/user/589916)
+- 知乎：[八月亮光](https://www.zhihu.com/people/85-61-77-59)
+
+后面的不想删了，留着以后写。
 
 Here are some ideas to get you started:
 
